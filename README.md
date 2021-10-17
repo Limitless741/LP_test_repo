@@ -1,7 +1,7 @@
 # LP_test_repo
 ##how to run a code
 * '''python
-    python first.py
+  python first.py
     '''
 * Enjoy  
  
